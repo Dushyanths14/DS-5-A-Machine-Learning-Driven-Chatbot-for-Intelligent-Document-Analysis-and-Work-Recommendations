@@ -19,4 +19,4 @@ A machine learning-driven system for intelligent document analysis and healthcar
 3. Start the server: `npm start`.
 
 ## Dataset
-The dataset is available in the `dataset/` folder.
+The dataset is available in the main folder named `cleaned_MPDV_DC.csv`.
